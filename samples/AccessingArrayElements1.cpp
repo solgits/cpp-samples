@@ -12,7 +12,7 @@ int main()
 
 	while(n < 7)
 	{
-		std::cout<<arr[n]<<endl;
+		std::cout<<arr[n]<<std::endl;
 		n++;
 	}
 	
